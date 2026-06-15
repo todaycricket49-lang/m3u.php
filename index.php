@@ -2,7 +2,7 @@
 header('Content-Type: application/x-mpegurl');
 header('Access-Control-Allow-Origin: *');
 
-$playlistUrl = "http://m3u4u.com/m3u/476rnmw9xdfp45grnekg";
+$playlistUrl = "http://m3u4u.com/m3u/782dyq5j1dtk19kqy4zp";
 
 // Real browser jaisa request bhejne ke liye options
 $options = [
