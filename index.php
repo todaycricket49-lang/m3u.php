@@ -2,7 +2,7 @@
 header('Content-Type: application/x-mpegurl');
 header('Access-Control-Allow-Origin: *');
 
-$playlistUrl = "http://m3u4u.com/m3u/v158yx1p8ds9ke99n9mw";
+$playlistUrl = "https://rkdyiptv.pages.dev/Playlist/Global.m3u";
 
 // Real browser jaisa request bhejne ke liye options
 $options = [
